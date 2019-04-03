@@ -1,0 +1,40 @@
+//color
+$icon-color-default: #fff;
+$icon-color: #ccc;
+$link-active-color: #4A90E2;
+$border-color: #e5e5e5;
+$font-color-heavy: #16325C;
+$font-color-normal: #54698D;
+$font-color-lighten: #A8B8D0;
+
+//bgc
+$bgc-theme: #4A90E2;
+$header-bgc: rgb(222, 24, 27);
+$header-bgc-translucent: rgba(222, 24, 27, 0.9);
+$modal-bgc: rgba(0, 0, 0, 0.4);
+$body-bgc: #F2F3F8;
+$content-bgc: #fff;
+//font size
+$font-size-small: 12px;
+$font-size-base: 12px;
+$font-size-medium: 14px;
+$font-size-lagre: 16px;
+$font-size-big: 22px;
+$font-size-title: 32px;
+$icon-font-size-sm: 18px;
+$icon-font-size: 24px;
+
+//z-index
+$navbar-z-index: 1000;
+$tabbar-z-index: 1000;
+$backtop-z-index: 1100;
+$search-z-index: 1200;
+$product-z-index: 1200;
+$login-z-index: 1200;
+$unit-z-index: 900;
+$search-popup-z-index: $search-z-index + 10;
+$category-popup-z-index: $search-z-index - 10;
+
+//size
+$navbar-height: 50px;
+$tabbar-height: 50px;
